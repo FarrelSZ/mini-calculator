@@ -32,7 +32,8 @@ Cocok untuk latihan logika pemrograman dan pembuatan UI yang interaktif! 🎯
 ```
 
 ## 📸 Screenshot
-(Tambahkan gambar tampilan kalkulator di sini!)
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/49006d5a-6e50-4ad4-94b6-685f967ef23d" />
+
 
 ## 👨‍💻 Kontributor
 💡 **Farrel Syach Zahran** – Pengembang proyek ini.
