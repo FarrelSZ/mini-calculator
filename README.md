@@ -1,40 +1,38 @@
-# Mini Calculator
+# 🔢 Mini Kalkulator
 
-Mini Calculator adalah aplikasi kalkulator sederhana berbasis web yang dibuat menggunakan HTML, CSS, dan JavaScript. Aplikasi ini memungkinkan pengguna untuk melakukan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+## 📌 Deskripsi
+Mini Kalkulator adalah aplikasi web sederhana yang dapat digunakan untuk melakukan perhitungan dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Dibangun menggunakan **HTML, CSS, dan JavaScript**, proyek ini merupakan hasil dari pelatihan online yang saya ikuti.
 
-## Fitur
+Cocok untuk latihan logika pemrograman dan pembuatan UI yang interaktif! 🎯
 
-- Operasi dasar: Penjumlahan, Pengurangan, Perkalian, dan Pembagian.
-- Tampilan sederhana dan responsif.
-- Dibangun tanpa menggunakan library atau framework eksternal.
+## ✨ Fitur Unggulan
+- ➕➖✖️➗ **Operasi Matematika Dasar**: Tambah, kurang, kali, dan bagi dalam sekejap.
+- 🖌 **Desain Simpel & Menarik**: Tampilan minimalis, mudah digunakan.
+- ⚡ **Responsif & Ringan**: Dapat dijalankan di berbagai perangkat tanpa kendala.
+- 🎨 **Animasi Halus**: UI lebih interaktif dengan efek transisi yang nyaman.
 
-## Teknologi yang Digunakan
+## 🛠 Teknologi yang Digunakan
+- 🌐 **HTML** – Struktur utama aplikasi.
+- 🎨 **CSS** – Mempercantik tampilan dengan gaya modern.
+- ⚙️ **JavaScript** – Menghidupkan fungsionalitas kalkulator.
 
-- **HTML**: Untuk struktur halaman.
-- **CSS**: Untuk styling dan tampilan antarmuka.
-- **JavaScript**: Untuk logika kalkulasi.
-
-## Cara Menggunakan
-
-1. Clone repositori ini atau unduh file zip.
-
-```bash
+## 🚀 Cara Menjalankan
+1. Clone atau download repository ini.
+   ```sh
    git clone https://github.com/username/mini-calculator.git
+   ```
+2. Buka file `index.html` di browser favoritmu.
+
+## 📂 Struktur Folder
+```
+📂 mini-calculator
+   ├── 📄 index.html  (Struktur utama halaman)
+   ├── 🎨 index.css   (Desain tampilan)
+   ├── ⚡ index.js   (Logika kalkulator)
 ```
 
-2. Buka file `index.html` di browser.
-3. Gunakan tombol pada kalkulator untuk melakukan perhitungan.
+## 📸 Screenshot
+(Tambahkan gambar tampilan kalkulator di sini!)
 
-## Struktur Proyek
-
-```
-mini-calculator/
-│── index.html  # File utama HTML
-│── style.css   # File styling CSS
-│── script.js   # Logika kalkulator dengan JavaScript
-└── README.md   # Dokumentasi proyek
-```
-
-## Kontribusi
-
-Jika ingin berkontribusi, silakan fork repositori ini, buat branch baru, dan ajukan pull request dengan perubahan yang diusulkan.
+## 👨‍💻 Kontributor
+💡 **Farrel Syach Zahran** – Pengembang proyek ini.
